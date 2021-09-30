@@ -9,4 +9,10 @@ Place: India<br/>
 About: Code is Life!<br/>
 Programming Language: Java, JS, C, Python ,html ,css<br/>
 Email: dsameer33@gmail.com<br/>
-		
+
+Name: [Pratyush Arora](https://github.com/Oiklite01)<br/>
+Place: India<br/>
+About:Love to Code !<br/>
+Programming Language:C, Python ,html ,css<br/>
+Email: arora.pratyush01@gmail.com<br/>
+	
